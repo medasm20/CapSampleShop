@@ -13,7 +13,10 @@
   ],
   "oauth2-configuration": {
     "redirect-uris": [
-      "https://*.hana.ondemand.com/**"
+      "https://*.hana.ondemand.com/**",
+      "https://*.ap21.applicationstudio.cloud.sap/**",
+      "https://*.cfapps.ap21.hana.ondemand.com/**",
+      "https://*.authentication.ap21.hana.ondemand.com/**"
     ]
   }
 }
